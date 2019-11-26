@@ -1,0 +1,59 @@
+item {
+    id: 1
+    name: 'water-small'
+}
+
+item {
+    id: 2
+    name: 'water-medium'
+}
+
+item {
+    id: 3
+    name: 'water-big'
+}
+
+item {
+    id: 4
+    name: 'bottle'
+}
+
+item {
+    id: 5
+    name: 'trash_bag'
+}
+
+item {
+    id: 6
+    name: 'plastic_case'
+}
+
+item {
+    id: 7
+    name: 'bar'
+}
+
+item {
+    id: 8
+    name: 'ground'
+}
+
+item {
+    id: 9
+    name: 'light'
+}
+
+item {
+    id: 10
+    name: 'plate'
+}
+
+item {
+    id: 11
+    name: 'car'
+}
+
+item {
+    id: 12
+    name: 'plate-digit'
+}

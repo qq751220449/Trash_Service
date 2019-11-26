@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'bottle'
+}
+
+item {
+    id: 2
+    name: 'trash_bag'
+}
+
+item {
+    id: 3
+    name: 'plastic_case'
+}

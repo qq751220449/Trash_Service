@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'water-small'
+}
+
+item {
+    id: 2
+    name: 'water-medium'
+}
+
+item {
+    id: 3
+    name: 'water-big'
+}
