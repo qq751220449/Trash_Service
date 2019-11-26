@@ -1,3 +1,5 @@
 # Trash_Service
 垃圾识别模型服务器文件-REST
 使用REST方式实现Tensorflow模型的部署
+
+将pb文件存放到model_store文件夹下即可
